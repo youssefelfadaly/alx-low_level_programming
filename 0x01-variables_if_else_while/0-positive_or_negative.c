@@ -5,7 +5,7 @@
 /**
  * main - entry point
  *
- * Description : TRUE or FALSE using IF
+ * Description : TRUE or FALSE validation  using IF
  *
  * Return : 0 (success)
  */
