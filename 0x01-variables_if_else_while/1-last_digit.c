@@ -5,7 +5,7 @@
 /**
  * Main - Entry point
  *
- i* Description: last digit of number using if
+ * Description: last digit of number using if
  *
  * Return: 0 (success)
  */
