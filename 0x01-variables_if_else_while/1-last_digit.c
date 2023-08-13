@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * Main - Entry point
+ * main - entry point
  *
- * Description: last digit of number using if
+ * Description:main entry point last digit of number using if
  *
  * Return: 0 (success)
  */
