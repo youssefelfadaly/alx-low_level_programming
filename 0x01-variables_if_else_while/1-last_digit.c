@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * main-Entry point
+ * Main - Entry point
  *
  i* Description: last digit of number using if
  *
- * return: 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
